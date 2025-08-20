@@ -7,8 +7,8 @@
 
 🚀 **Como executar:**
 ```bash
-javac Main.java
-java Main
+javac Application.java
+java Application
 ```
 
 💻 **Exemplo de uso:**
